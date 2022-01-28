@@ -19,4 +19,4 @@ Tested on ICARUS 1.1.1.90444, should survive *some* game updates
 
 Join the [Linkarus discord server](https://discord.gg/2UrWDXjxUk), it empty but I spent two minutes on the lame logo
 
-![[Linkarus discord server](https://discord.gg/2UrWDXjxUk)](https://user-images.githubusercontent.com/28294714/151571458-77d5f06f-5c20-4733-b40a-6916f352d44b.png)
+[![linkarus discord logo](https://user-images.githubusercontent.com/28294714/151571458-77d5f06f-5c20-4733-b40a-6916f352d44b.png)](https://discord.gg/2UrWDXjxUk)
