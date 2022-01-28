@@ -18,7 +18,7 @@ Tested on ICARUS 1.1.1.90762, should survive *some* game updates.
 ### Craftsman
 - Tweaks crafting recipes (including cheaper electronics)
 
-Made for ICARUS 1.1.1.90762, will NOT survive updates (uninstall or update the mod after every game update).
+Made for ICARUS 1.1.1.90762, **will NOT survive updates (uninstall or update the mod after every game update)**.
 
 \[[Download](https://github.com/wafflecomposite/linkarus/releases/tag/craftsman_V1_build1.1.1.90762)\]
 
