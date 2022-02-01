@@ -22,8 +22,10 @@ Made for ICARUS 1.1.1.90762, **will NOT survive updates (uninstall or update the
 
 \[[Download](https://github.com/wafflecomposite/linkarus/releases/tag/craftsman_V1_build1.1.1.90762)\]
 
+## More mods:
+- [More dropship/loadout slots](https://www.reddit.com/r/ICARUS/comments/sgvkf1/modmore_dropshiploadout_slots_203034/) by [u/aall137906](https://www.reddit.com/user/aall137906/)
 ---
 
-Join the [Linkarus discord server](https://discord.gg/2UrWDXjxUk), it's empty but I spent two minutes on the lame logo
+Join the [Linkarus discord server](https://discord.gg/2UrWDXjxUk) for mod news and FAQs and if you would like to suggest an mod idea
 
 [![linkarus discord logo](https://user-images.githubusercontent.com/28294714/151571458-77d5f06f-5c20-4733-b40a-6916f352d44b.png)](https://discord.gg/2UrWDXjxUk)
