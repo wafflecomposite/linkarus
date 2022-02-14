@@ -33,6 +33,8 @@ Made for ICARUS 1.1.1.90762, **will NOT survive updates (uninstall or update the
 - 
 - [Multiple mods](https://drive.google.com/file/d/1uCTewGq19o-u4Q2roJoDKrc0zcBd0M4f/view?usp=sharing) by M.Becile from Linkarus discord server
 ![image](https://user-images.githubusercontent.com/28294714/153935416-a5c6faad-78fb-4caa-824d-032d5b8d8aac.png)
+- 
+- [Balance Overhaul](https://github.com/WZG-Mods/wzg-icarus-balance-overhaul/releases/tag/WZG_21) by [WZG-Mods](https://github.com/WZG-Mods)
 
 ---
 
