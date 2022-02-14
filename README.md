@@ -27,7 +27,7 @@ Made for ICARUS 1.1.1.90762, **will NOT survive updates (uninstall or update the
 - 
 - [30 dropship slots, updated if you are having trobles with the mod above](https://drive.google.com/file/d/1Tgn8jUpMU0EeNk8dvtyVj6ID1hu8BqQt/view?usp=sharing) by M.Becile from Linkarus discord server
 - 
-- [Multiple mods tools-related mods](https://github.com/Cilium117/Icarus) by Cilium from Linkarus discord server
+- [Multiple workshop tools-related mods](https://github.com/Cilium117/Icarus) by Cilium from Linkarus discord server
 - 
 - [Stack size mod](https://www.reddit.com/r/ICARUS/comments/sm2p6u/mod_stack_size_increase/) by j2g from Linkarus discord server
 - 
