@@ -15,12 +15,12 @@ Tested on ICARUS 1.1.1.90762, should survive *some* game updates.
 
 \[[Download](https://github.com/wafflecomposite/linkarus/releases/tag/uncapped_1.1.1.90444_v1)\]
 
-### Craftsman (OUTDATED ATM)
+### Craftsman
 - Tweaks crafting recipes (including cheaper electronics)
 
-Made for ICARUS 1.1.1.90762, **will NOT survive updates (uninstall or update the mod after every game update)**.
+Made for ICARUS 1.1.2.91544, **will NOT survive updates (uninstall or update the mod after every game update)**.
 
-\[[Download](https://github.com/wafflecomposite/linkarus/releases/tag/craftsman_V1_build1.1.1.90762)\]
+\[[Download](https://github.com/wafflecomposite/linkarus/releases/tag/craftsman_V1_build1.1.2.91544)\]
 
 ## More mods:
 - [More dropship/loadout slots](https://www.reddit.com/r/ICARUS/comments/sgvkf1/modmore_dropshiploadout_slots_203034/) by [u/aall137906](https://www.reddit.com/user/aall137906/)
