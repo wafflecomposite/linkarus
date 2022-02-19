@@ -23,19 +23,16 @@ Made for ICARUS 1.1.2.91544, **will NOT survive updates (uninstall or update the
 \[[Download](https://github.com/wafflecomposite/linkarus/releases/tag/craftsman_V1_build1.1.2.91544)\]
 
 ## More mods:
-- [More dropship/loadout slots](https://www.reddit.com/r/ICARUS/comments/sgvkf1/modmore_dropshiploadout_slots_203034/) by [u/aall137906](https://www.reddit.com/user/aall137906/)
-- 
-- [30 dropship slots, updated if you are having trobles with the mod above](https://drive.google.com/file/d/1Tgn8jUpMU0EeNk8dvtyVj6ID1hu8BqQt/view?usp=sharing) by M.Becile from Linkarus discord server
+- [30slot and hephaestus_* mods](https://drive.google.com/file/d/1Tgn8jUpMU0EeNk8dvtyVj6ID1hu8BqQt/view?usp=sharing) by M.Becile from Linkarus discord server
+![image](https://cdn.discordapp.com/attachments/936634005678325792/944352853990981702/unknown.png)
 - 
 - [Multiple workshop tools-related mods](https://github.com/Cilium117/Icarus) by Cilium from Linkarus discord server
 - 
 - [Stack size mod](https://www.reddit.com/r/ICARUS/comments/sm2p6u/mod_stack_size_increase/) by j2g from Linkarus discord server
 - 
-- [Multiple mods](https://drive.google.com/file/d/1uCTewGq19o-u4Q2roJoDKrc0zcBd0M4f/view?usp=sharing) by M.Becile from Linkarus discord server
-![image](https://user-images.githubusercontent.com/28294714/153935416-a5c6faad-78fb-4caa-824d-032d5b8d8aac.png)
-- 
 - [Balance Overhaul](https://github.com/WZG-Mods/wzg-icarus-balance-overhaul/releases/tag/WZG_21) by [WZG-Mods](https://github.com/WZG-Mods)
-
+-
+- [Icarus-2xTalents](https://github.com/DeathDaModMan/Icarus-2xTalents) by [DeathDaModMan](https://github.com/DeathDaModMan)
 ---
 
 Join the [Linkarus discord server](https://discord.gg/2UrWDXjxUk) for mod news, FAQs and to suggest an mod idea!
