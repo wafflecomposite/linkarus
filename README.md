@@ -1,3 +1,5 @@
+ARCHIVED: my job here is done. If you're looking for relevant mods, check out Icarus modding Discord server https://discord.com/invite/2UrWDXjxUk
+
 # Linkarus: ICARUS mods and modding tools collection
 
 ## Mods:
